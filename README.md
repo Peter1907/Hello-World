@@ -7,6 +7,8 @@ Exersice for creating repos, branches & commits.
 ## Built With
 
 Git commands
+HTML
+CSS
 
 ## Authors
 
